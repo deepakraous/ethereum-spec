@@ -1,1 +1,1 @@
-# Ethereum-Spec
+# ethereum-spec
