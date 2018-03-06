@@ -1,3 +1,4 @@
+Source from Mastering Blockchain and some additions
 
 |  **Symbol** | **Description** |
 |  ------ | ------ |
@@ -35,7 +36,7 @@
 |  σ | sigma, World State |
 |  μ | mu, Machine State |
 |  Υ | upsilion, Ethereum state transition function |
-|  Π | Block level state transition function |
+|  Π | Block level state transition function |UP
 |  ∆ | increment |
 |  Λ | Contract creation function |
 |  [a,b) | Real numbers >= a and < b |
