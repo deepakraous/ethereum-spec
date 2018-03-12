@@ -33,8 +33,8 @@ Source from Mastering Blockchain and some additions
 |  n | number |
 |  ≤ | less than equal to |
 |  ᴧ | contract creation function |
-|  σ | sigma, World State |
-|  μ | mu, Machine State |
+|  ***σ***| sigma, World State |
+|  ***μ*** | mu, Machine State |
 |  Υ | upsilion, Ethereum state transition function |
 |  Π | Block level state transition function |UP
 |  ∆ | increment |
