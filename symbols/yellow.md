@@ -19,7 +19,7 @@ Source from Mastering Blockchain and some additions
 |  > | is greater than |
 |  < | is less than |
 |  + | addition |
-|  "-" | subtraction |
+|  - | subtraction |
 |  ∑ | summation or sum of |
 |  { | describing various cases of if , otherwise,for example piecewise functions with behaviour like 'if this, that. Otherwise, this different thing |
 | I...I | No of bytes(note:replace I with | symbol | )
