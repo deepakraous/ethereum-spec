@@ -1,4 +1,4 @@
-Source from Mastering Blockchain and some additions
+Reference from Mastering Blockchain/Wiki/personal interpretation
 
 |  **Symbol** | **Description** |
 |  ------ | ------ |
@@ -26,7 +26,7 @@ Source from Mastering Blockchain and some additions
 |  ⌊...⌋ | floor,lowest element |
 |  ⌈...⌉ | ceiling, highest element |
 |  ⊕ | exclusive OR |
-|  ∅  | empty set, null |
+|  ∅  | empty set, null,0 |
 |  . | sequence concatination |
 |  ∃ | there exist |
 |  𝔹n | hash of size n bytes |
@@ -39,7 +39,7 @@ Source from Mastering Blockchain and some additions
 |  Π | Block level state transition function |UP
 |  ∆ | increment |
 |  Λ | Contract creation function |
-|  [a,b) | Real numbers >= a and < b |
+|  [a,b) | Real numbers in the range( >= a and < b )|
 |  B  | this Block |
 |  Ω  | Block finalization transition function (aka: a function that rewards a nominated party) |
 |  *T* | Transaction |
