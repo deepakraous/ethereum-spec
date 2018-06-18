@@ -43,3 +43,4 @@ Reference from Mastering Blockchain/Wiki/personal interpretation
 |  B  | this Block |
 |  Ω  | Block finalization transition function (aka: a function that rewards a nominated party) |
 |  *T* | Transaction |
+|  [], []', []*,| Value Transitions, usable value state ',* represents intermediate states |
