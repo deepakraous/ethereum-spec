@@ -1,7 +1,7 @@
 Reference from Mastering Blockchain/Wiki/personal interpretation
 
 |  **Symbol** | **Description** |
-|  ------ | ------ |
+|   :---:  |  :---:  |
 |  ≡ | is defined as |
 |  = | is equal to |
 |  ≠ | is not equal to |
